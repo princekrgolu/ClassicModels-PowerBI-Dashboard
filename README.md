@@ -39,3 +39,26 @@ The dashboard enables users to monitor key business metrics, identify sales tren
 - DAX (Data Analysis Expressions)
 - Data Modeling (Star Schema)
 - Time Intelligence
+
+---
+
+## 📊 Dashboard Features
+
+- Executive KPI cards displaying Total Revenue, Total Customers, Total Orders, and YoY Growth.
+- Interactive Monthly Revenue Trend with dynamic filtering.
+- Revenue analysis by Product Line.
+- Revenue analysis by Country.
+- Top Customers ranked by Revenue.
+- Dynamic slicers for Year and Country.
+- Year-over-Year (YoY) analysis using DAX Time Intelligence.
+- Cross-filtering across all visuals for interactive exploration.
+
+---
+
+## 📈 Key Business Insights
+
+- Classic Cars generated the highest revenue among all product lines.
+- USA contributed the largest share of overall sales.
+- Revenue shows noticeable seasonal peaks during the final quarter of the year.
+- A small group of customers contributes a significant portion of total revenue.
+- YoY Growth provides quick comparison of current performance against the previous year.
