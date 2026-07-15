@@ -62,3 +62,7 @@ The dashboard enables users to monitor key business metrics, identify sales tren
 - Revenue shows noticeable seasonal peaks during the final quarter of the year.
 - A small group of customers contributes a significant portion of total revenue.
 - YoY Growth provides quick comparison of current performance against the previous year.
+
+## 📷 Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
