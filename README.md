@@ -15,3 +15,27 @@ The dashboard enables users to monitor key business metrics, identify sales tren
 - Implement DAX measures and Time Intelligence calculations.
 - Provide interactive sales insights using KPIs, charts, and slicers.
 - Demonstrate industry-standard BI development practices for portfolio and interview preparation.
+  
+---
+
+## 📂 Dataset
+
+- **Source:** Classic Models Sample Database (MySQL)
+- **Domain:** Retail Sales
+- **Tables Used:**
+  - Customers
+  - Orders
+  - Order Details
+  - Products
+  - Product Lines
+  - Payments
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- MySQL
+- DAX (Data Analysis Expressions)
+- Data Modeling (Star Schema)
+- Time Intelligence
